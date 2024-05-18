@@ -7,7 +7,7 @@ This project aims to explore a dataset, visualize its distribution, train multip
 Setup
 To run the code, you need to have the following libraries installed:
 
-import pandas as pd
+import pandas as pd \n
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split, cross_val_score
