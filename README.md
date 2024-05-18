@@ -6,7 +6,7 @@ This project aims to explore a dataset, visualize its distribution, train multip
 
 ## Setup
 To run the code, you need to have the following libraries installed:
-'''python
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -15,4 +15,6 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay, classification_report
-'''
+```
+
+
